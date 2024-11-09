@@ -39,3 +39,9 @@ Now that you have made the capture, you might want to save it so that you can op
 4. A finder window with the frame capture file should appear. Move that file wherever you want.
 <img width="1032" alt="Screenshot 2024-11-09 at 08 10 26" src="https://github.com/user-attachments/assets/846d01c3-233c-426d-adfa-1c3185cae450">
 
+
+## Notes
+
+There are a few things to be aware of:
+- The frame capture files can get really big sometimes. I recommend zipping them if you plan on sharing them, it drastically reduces their size.
+- On some computers, you won't be able to close Cemu after doing a frame capture (even with `Force Quit`). It will continue to occupy a part of the RAM, and the only way (that I am aware of) to close it is to restart your computer.
